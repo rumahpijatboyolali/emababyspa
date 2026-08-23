@@ -1,0 +1,9 @@
+body{margin:0;background:#020617;color:white;font-family:Arial;text-align:center;padding:20px}
+.logo{max-width:330px;width:90%;border-radius:20px}
+header{padding:30px 10px}
+h1{color:#f2b179}
+p{color:#cbd5e1}
+.card{background:#0f172a;max-width:700px;margin:25px auto;padding:25px;border-radius:20px}
+.btn{display:inline-block;background:#2563eb;color:white;text-decoration:none;padding:12px 22px;border-radius:30px;margin:8px}
+.wa{background:#16a34a}
+.floating{position:fixed;right:20px;bottom:20px;background:#16a34a;color:white;padding:18px;border-radius:50%;text-decoration:none}
